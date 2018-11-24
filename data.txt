@@ -1,0 +1,11 @@
+data 
+
+tl_x=[1,10,100]
+br_x=[5,13,78]
+tl_y=[1,1,110]
+br_y=[6,2,82]
+cnames=['New York','Paris','London']
+
+point_x=[2,10,100]
+point_y=[1,1,1000]
+point_id=['point1','point2','point3']
